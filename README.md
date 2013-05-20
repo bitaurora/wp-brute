@@ -37,9 +37,11 @@ wp-brute.php should be used primarily from the command line, meaning, you will r
 Here's a couple of examples
 
 A local session with no proxy
+
 	php wp-brute.php http://localhost/blog/wp-login.php admin lib/passlist.txt
 	
 A remote session through a proxy.
+
 	php wp-brute.php http://site.com/wp-login.php admin lib/passlist.txt /proxy 127.0.0.1:9050
 
 Questions
