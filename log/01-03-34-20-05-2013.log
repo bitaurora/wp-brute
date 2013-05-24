@@ -1,8 +1,0 @@
-Resolving target 'lordcoconut.com' to IP to avoid repeated DNS queries.
-Resolved target hostname to IP address 117.104.160.134
-Reading password dictionary from lib/passlist.txt
-Found 10002 passwords to try from dictionary.
-Boostrap done.
-Timeout. Retrying.
-Timeout. Retrying.
-Couldn't make connection to 117.104.160.134:80 (Via tor / proxy)
